@@ -1,0 +1,25 @@
+{
+  "name": "strayrobot",
+  "version": "1.5.2",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "author": "Satont",
+  "license": "ISC",
+  "dependencies": {
+    "create-if-not-exist": "0.0.2",
+    "fs": "0.0.1-security",
+    "last-commit-log": "^1.0.13",
+    "lodash": "^4.17.10",
+    "moment": "^2.22.2",
+    "moment-timezone": "^0.5.21",
+    "node-fetch": "^2.2.0",
+    "require-all": "^3.0.0",
+    "socket.io-client": "^2.1.1",
+    "twitch-js": "^v2.0.0-beta.14",
+    "winston": "^3.0.0"
+  }
+}

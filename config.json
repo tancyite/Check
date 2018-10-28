@@ -1,0 +1,14 @@
+{
+"twitch": {
+    "comment": "use https://twitchtokengenerator.com/ for get tokens", 
+    "clientid": "gqlfchunepwype1eewhtvxkk83p7ps",
+    "username": "",
+    "token": "",
+    "broadcaster_token": "",
+    "channel": ""
+ },
+ "timers": {
+     "delay": "5"
+ },
+ "da_token": ""
+}
